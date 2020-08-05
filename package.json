@@ -1,0 +1,19 @@
+{
+  "name": "git-ex",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidPrakash7/git-test.git"
+  },
+  "author": "david",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidPrakash7/git-test/issues"
+  },
+  "homepage": "https://github.com/DavidPrakash7/git-test#readme",
+  "description": ""
+}
